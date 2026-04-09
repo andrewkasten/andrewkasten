@@ -26,5 +26,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewkasten/)
+<a src="https://andrewkasten.cv/"> <img width="30" height="30" alt="Letter A" src="https://github.com/user-attachments/assets/9acb1f3e-afe7-4392-a1f7-bc5f78102a39" /> </a>
 <a src="https://codepen.io/Andrew-Kasten" > <img src="https://images.seeklogo.com/logo-png/32/1/codepen-logo-png_seeklogo-328201.png" width="30"/></a>
+
 
