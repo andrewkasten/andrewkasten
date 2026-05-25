@@ -1,8 +1,9 @@
-<h1 align="center">Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>, I'm Andrew Kasten</h1>
+<h1 align="center">Hi, <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/> </h1>
 
 <p align="center"> 
-- 🔭 I’m currently a Full-stack Software Engineering student at <img height="50" src="https://www.codeplatoon.org/hs-fs/hubfs/Logos/CP%20Logos/Primary%20Logo%20White%20PNG.png?width=200&height=70&name=Primary%20Logo%20White%20PNG.png"/> </p>
-
+- 🔭 Transitioning into software engineering, recently completed full stack program at </p>
+<p align="center"> 
+ <img height="50" src="https://www.codeplatoon.org/hs-fs/hubfs/Logos/CP%20Logos/Primary%20Logo%20White%20PNG.png?width=200&height=70&name=Primary%20Logo%20White%20PNG.png"/> </p>
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
@@ -22,11 +23,11 @@
 
 
 <!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
+<h3 align="center">🤝Links🤝</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewkasten/)
-<a src="https://andrewkasten.cv/"> <img width="30" height="30" alt="Letter A" src="https://github.com/user-attachments/assets/9acb1f3e-afe7-4392-a1f7-bc5f78102a39" /> </a>
-<a src="https://codepen.io/Andrew-Kasten" > <img src="https://images.seeklogo.com/logo-png/32/1/codepen-logo-png_seeklogo-328201.png" width="30"/></a>
+[<img width="30" height="30" alt="Letter A" src="https://github.com/user-attachments/assets/9acb1f3e-afe7-4392-a1f7-bc5f78102a39"/>](https://andrewkasten.cv/)
+[<img src="https://images.seeklogo.com/logo-png/32/1/codepen-logo-png_seeklogo-328201.png" width="30"/>](https://codepen.io/Andrew-Kasten)
 
 
