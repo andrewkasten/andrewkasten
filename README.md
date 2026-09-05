@@ -2,6 +2,8 @@
 
 Transitioning into software engineering after completing a Full-Stack program at Code Platoon. I build full-stack web applications using JavaScript, React, and Python/Django, and I enjoy turning ideas into polished, working projects.
 
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=octocat&days=30&width=320&height=80)
+
 ---
 
 ## Tech Stack
@@ -18,9 +20,9 @@ Transitioning into software engineering after completing a Full-Stack program at
 
 ## Selected Projects
 
-- Impact Desk — A activity planner for nonprofit fundraising staff to organize meetings and events. Technologies: React, Django, PostgreSQL. [Repo](https://github.com/andrewkasten/ImpactDesk)
+- Impact Desk — A activity planner for nonprofit fundraising staff to organize meetings and events. Technologies: React, Django, PostgreSQL. [Repo](https://github.com/andrewkasten/ImpactDesk) • [Live Demo](https://impactdesk.andrewkasten.cv/)
 
-- Recipe Card/GenUI — Generates seasonal recipes grounded in a 50-state, 12-month produce dataset. Technologies: JavaScript, HTML/CSS. [Repo](https://github.com/andrewkasten/RecipeGenUI) • [Live Demo](https://andrewkasten.github.io/RecipeGenUI)
+- Recipe Card/GenUI — Generates seasonal recipes grounded in a 50-state, 12-month produce dataset. Technologies: JavaScript, HTML/CSS. [Repo](https://github.com/andrewkasten/RecipeGenUI) • [Live Demo](https://recipes.andrewkasten.cv/)
 
 ---
 
@@ -32,11 +34,6 @@ Transitioning into software engineering after completing a Full-Stack program at
 
 ## Contact & Links
 [LinkedIn](https://www.linkedin.com/in/andrewkasten/) • [Portfolio / Resume](https://andrewkasten.cv/) • [CodePen](https://codepen.io/Andrew-Kasten)
-
-## GitHub Stats
-
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewkasten&show_icons=true&theme=default)](https://github.com/andrewkasten)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkasten&layout=compact&theme=default)](https://github.com/andrewkasten)
 
 If you'd like to reach me directly, andrewkasten@proton.me
 
