@@ -1,8 +1,9 @@
-# Hi, I’m Andrew Kasten 👋
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=octocat&days=30&width=320&height=80)
+# Hi, I’m Andrew Kasten 👋     
 
 Transitioning into software engineering after completing a Full-Stack program at Code Platoon. I build full-stack web applications using JavaScript, React, and Python/Django, and I enjoy turning ideas into polished, working projects.
 
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=octocat&days=30&width=320&height=80)
+
 
 ---
 
